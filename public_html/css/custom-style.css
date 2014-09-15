@@ -1,4 +1,6 @@
-
+* {
+    color: white;
+}
  body { 
      background-image: url(../cody.jpg); 
  }
