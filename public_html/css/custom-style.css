@@ -4,3 +4,8 @@
  body { 
      background-image: url(../cody.jpg); 
  }
+ 
+ img {
+     width: 450px; 
+     height: 100px;
+ }
