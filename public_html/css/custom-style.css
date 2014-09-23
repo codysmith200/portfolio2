@@ -1,13 +1,18 @@
 * {
     color: white;
 }
- body { 
-     background-image: url(../cody.jpg); 
- }
- 
- img {
-     width: 650px; 
-     height: 100px;
- }
- 
- 
+body { 
+    background-image: url(../cody.jpg); 
+}
+
+img {
+    width: 650px; 
+    height: 100px;
+}
+  #carousel-example-generic {
+    width: 650px;   
+  }
+
+
+
+
