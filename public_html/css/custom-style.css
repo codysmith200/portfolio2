@@ -3,6 +3,11 @@
 }
 body { 
     background-image: url(../cody.jpg); 
+    background-attatchment: fixed;
+    background-repeat: repeat-x;
+    background-size: contain;
+    -mox-background-size: contain;
+    background-size: 100%;
 }
 
 img {
