@@ -1,4 +1,4 @@
-* {
+    * {
     color: white;
 }
 body { 
@@ -8,16 +8,30 @@ body {
     background-size: contain;
     -mox-background-size: contain;
     background-size: 100%;
+    color: black;
+}                                   
+
+.dropdown{
+    color: black;
 }
 
-img {
-    width: 650px; 
+.carousel-inner img {
+    width: 600px;
+    heigh: 600px;
+}
+
+.pic {
+    width: 100px; 
     height: 100px;
 }
-  #carousel-example-generic {
-    width: 650px;   
-  }
 
+.pic2 {
+    width: 150px;
+    height: 100px;
+}
 
-
+#carousel-example-generic {
+    width: 600px; 
+    background-attatchment: fixed;
+}
 
